@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors = ["Ezequiel Maraschio"]
   s.email = 'ezequiel.maraschio@gmail.com'
   s.files = ["lib/samuel_ipsum.rb"]
-  s.homepage = 'http://rubygems.org/gems/samuel_ipsum'
+  s.homepage = 'https://github.com/emaraschio/samuel_ipsum'
   s.license = 'MIT'
 end
