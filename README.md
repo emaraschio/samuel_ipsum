@@ -1,14 +1,14 @@
 Samuel Ipsum
 ====
 
-A gem to generate random text based on Samuel L. Jackson phrases
+A gem to generate random text based on Samuel L. Jackson phrases.
 
 ![Samuel 'FUCKIN' L. Jackson](http://funzim.com/wp-content/uploads/2013/08/which-film-characters-are-the-25-biggest-movember-badasses-488344561-nov-14-2012-1-600x400.jpg)
 
 Description
 -----------
 
-Generate Samuel L. sentences for filler text while developing anything which requires real text
+Generate Samuel L. Jackson sentences for filler text while developing anything which requires real text.
 
 Installation
 ------------
