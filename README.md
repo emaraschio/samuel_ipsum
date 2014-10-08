@@ -36,7 +36,7 @@ SamuelIpsum.text(4)
 SamuelIpsum.text(2, "<br />")
 ```
 
-Usage
+License
 -----
 
 All files, unless otherwise noted, are released under the MIT license.
