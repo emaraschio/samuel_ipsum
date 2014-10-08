@@ -6,7 +6,7 @@ module SamuelIpsum
         at_least = (paragraphs_to_repeat / paragraphs.size) + 1
         (paragraphs * at_least).flatten[0...paragraphs_to_repeat].join(join_element)
       else
-        paragraphs.shuffle.sample
+        paragraphs.sample
       end
     end
 
